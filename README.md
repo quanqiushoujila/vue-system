@@ -1,6 +1,6 @@
 # vue-system
 
-> A Vue.js project
+> A Vue.js project  
 > vue与element-ui实现的后台系统
 
 ## Build Setup
