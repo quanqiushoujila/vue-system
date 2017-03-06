@@ -1,0 +1,28 @@
+/*
+* @Author: kk
+* @Date:   2017-02-15 08:42:55
+* @Last Modified by:   kk
+* @Last Modified time: 2017-02-15 16:40:39
+*/
+@media (max-width: 768px) {
+  // header
+  .header .logo,
+  .header .navbar {
+    width: 100%;
+    transition: width .3s;
+  }
+  // left menu
+  .menu-container{
+    left: -230px;
+    transition: left .3s;
+  }
+  .panel-center .panel-main {
+    left: 0;
+    top: 50px;
+    transition: all .3s;
+  }
+  .panel-center .panel-main {
+    width: 100%;
+    transition: width .3s;
+  }
+}

@@ -1,0 +1,33 @@
+ 
+[
+  {
+    "name": "导航一",
+    "icon": "el-icon-message",
+    "children": [
+      {
+        "name": "选项1"
+      },
+      {
+        "name": "选项2"
+      },
+      {
+        "name": "选项3"
+      },
+      {
+        "name": "选项4",
+        "children": {
+          "name": "选项5"
+        }
+      }
+    ]
+  }, 
+  {
+    "name": "导航二",
+    "icon": "el-icon-menu"
+  }, 
+  {
+    "name": "导航三",
+    "icon": "el-icon-setting"
+  }
+]
+
